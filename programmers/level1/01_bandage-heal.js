@@ -1,3 +1,6 @@
+// 📝 문제: [PCCP 기출문제] 1번 / 붕대 감기
+// https://school.programmers.co.kr/learn/courses/30/lessons/250137
+
 function solution(bandage, health, attacks) {
     let currentHealth = health;
     let combo = 0;
